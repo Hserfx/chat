@@ -1,0 +1,5 @@
+CHAT COMMANDS:
+
+/time ** send local time **
+/changecolor #RRGGBB ** changing own color on chat **
+/calc (equation) ** Sending calculated equation **
